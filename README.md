@@ -3,7 +3,7 @@
 💻 Software Engineer focused on building scalable, cloud-native web applications  
 
 🛠️ Tech Stack:  
-• Backend: Java, Spring Boot, ASP.NET Core, Node.js  
+• Backend: ASP .NET, C#, Java, Spring Boot, ASP.NET Core, Node.js  
 • Frontend: Angular, TypeScript  
 • Databases: SQL Server, Cosmos DB, MongoDB  
 • Cloud & DevOps: Microsoft Azure, CI/CD, Docker  
